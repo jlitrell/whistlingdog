@@ -1,0 +1,10 @@
+Options +ExecCGI
+
+AddDefaultCharset UTF-8
+
+AddHandler fastcgi-script .fcgi
+RewriteEngine On
+
+RewriteRule . - [E=no-gzip:1]
+RewriteRule ^(WD/script/dispatch\.fcgi/.*)$ - [L]
+RewriteRule ^(.*)$ WD/script/dispatch.fcgi/$1 [PT,L]
