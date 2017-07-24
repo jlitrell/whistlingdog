@@ -1,0 +1,36 @@
+<!-- topnav -->
+<div id="topnav" style="border: thin red solid">
+    <div id="menu">
+        <ul>
+            <li[% IF req_page == 'index' %] class="active"[% END %] onClick="return true">
+                <a href="/">[% lang.${'nav.home'} %]</a>
+            </li>
+
+            <li[% IF req_page == 'sparks' %] class="active"[% END %] onClick="return true">
+                <a href="/sparks-and-sticks">[% lang.${'nav.sparks'} %]</a>
+            </li>
+
+            <li class="has-sub[% IF req_page == 'magic' %] active[% END %]" onClick="return true">
+                <a><span>[% lang.${'nav.magic'} %]</span></a>
+                <ul>
+                    <li><a href="/magic-richard"><span>- [% lang.${'nav.magic-richard'} %]</span></a></li>
+                    <li><a href="/magic-history"><span>- [% lang.${'nav.magic-history'} %]</span></a></li>
+                    <li><a href="/magic-of-coney-island"><span>- [% lang.${'nav.magic-ci'} %]</span></a></li>
+                </ul>
+            </li>
+
+            <li[% IF req_page == 'mm' %] class="active"[% END %] onClick="return true">
+                <a href="/magical-melodions">[% lang.${'nav.mm'} %]</a>
+            </li>
+
+            <li[% IF req_page == 'music' %] class="active"[% END %] onClick="return true">
+                <a href="/richard-music">[% lang.${'nav.richard-music'} %]</a>
+            </li>
+
+            <li[% IF req_page == 'about' %] class="active"[% END %] onClick="return true">
+                <a href="/about">[% lang.${'nav.about'} %]</a>
+            </li>
+        </ul>
+    </div>
+</div>
+<!-- /topnav -->

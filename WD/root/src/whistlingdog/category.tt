@@ -1,0 +1,14 @@
+<p class="cat_description">
+[% description %]
+</p>
+
+<div id="cat_layout">
+[% WHILE (work = works_rs.next) %]
+<div class="work">
+[% UNLESS work.name == 'blank' -%]
+    <a href="/[% language %]/work/[% work.id %]/[% work.name %]">
+    <img src="/static/media/graphics/work/[% work.image_name %]-s.jpg" height="240" width="240" alt="[% work.name %]"></a>
+[% END -%]
+</div>
+[% END %]
+</div>

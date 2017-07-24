@@ -1,0 +1,13 @@
+<link href="https://fonts.googleapis.com/css?family=Petit+Formal+Script" rel="stylesheet">
+
+<div id="about_container">
+<center><h1>About/Contact</h1></center>
+    <div id="about_text">
+        [% lang.about_text %]
+    </div>
+
+    <div id="contact_text">
+        [% lang.contact_text %]
+    </div>
+
+</div>

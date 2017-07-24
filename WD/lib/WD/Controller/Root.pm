@@ -1,70 +1,51 @@
 package WD::Controller::Root;
+
 use Moose;
 use namespace::autoclean;
 
 BEGIN { extends 'Catalyst::Controller' }
 
-#
-# Sets the actions in this controller to be registered with no prefix
-# so they function identically to actions created in MyApp.pm
-#
 __PACKAGE__->config(namespace => '');
 
-=encoding utf-8
 
-=head1 NAME
-
-WD::Controller::Root - Root Controller for WD
-
-=head1 DESCRIPTION
-
-[enter your description here]
-
-=head1 METHODS
-
-=head2 index
-
-The root page (/)
-
-=cut
-
-sub index :Path :Args(0) {
+sub app_root : Path : Args(0) {
+    # Site root - http://whistlingdog.com/
     my ( $self, $c ) = @_;
 
-    # Hello World
-    $c->response->body( $c->welcome_message );
+    my $language = 'en';
+
+    $c->stash(
+        'req_page'  => 'index',
+        'lang'      => $c->model('DB')->schema->GLOBAL_LANG->{$language},
+        'template'  => 'whistlingdog/index.tt',
+    );
 }
 
-=head2 default
 
-Standard 404 error page
-
-=cut
-
-sub default :Path {
+sub default : Path {
+    # Default 404
+# TODO: redirect or search?
     my ( $self, $c ) = @_;
     $c->response->body( 'Page not found' );
     $c->response->status(404);
 }
 
-=head2 end
 
-Attempt to render a view, if needed.
+sub end : ActionClass('RenderView') {
+    my ($self, $c) = @_;
 
-=cut
+    my $errors = scalar @{$c->error};
 
-sub end : ActionClass('RenderView') {}
+    if ($errors) {
+        $c->log->error("Errors in ${\$c->action}:");
+        $c->log->error($_) for @{$c->error};
 
-=head1 AUTHOR
+        $c->res->status(500);
+        $c->res->body('internal server error');
+        $c->clear_errors;
+    }
+}
 
-Catalyst developer
-
-=head1 LICENSE
-
-This library is free software. You can redistribute it and/or modify
-it under the same terms as Perl itself.
-
-=cut
 
 __PACKAGE__->meta->make_immutable;
 

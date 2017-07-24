@@ -1,0 +1,43 @@
+<div id="gallery">
+    <div id="galleria"></div>
+
+<div id="bottomnav">
+    <a href="/[% language %]/work/[% prev.id %]/[% prev.name %]">Previous</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="/[% language %]/work/[% next.id %]/[% next.name %]">Next</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+</div>
+
+
+
+<!-- load jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+<!-- load Galleria -->
+<script src="/static/js/galleria/galleria-1.4.2.min.js"></script>
+<script>
+    var data = [
+    [% WHILE (image = images_rs.next) %]
+        {
+            thumb: '/static/media/graphics/work/[% image.filename %]-t.jpg',
+            image: '/static/media/graphics/work/[% image.filename %]-m.jpg',
+            big: '/static/media/graphics/work/[% image.filename %]-l.jpg',
+            title: '[% image.description.squote || work.description.squote %]',
+        },
+    [% END %]
+    ];
+
+    Galleria.loadTheme('/static/js/galleria/themes/classic/galleria.classic.min.js');
+
+    Galleria.configure({
+        idleMode: false,
+        lightbox: true,
+        maxScaleRatio: 1,
+        overlayBackground: '#000000',
+        overlayOpacity: 1,
+        transition: 'fade'
+    });
+
+    Galleria.run('#galleria', {
+        dataSource: data
+    });
+</script>
