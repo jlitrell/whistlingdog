@@ -1,2 +1,21 @@
-<h1>Richard's Music</h1>
-Need some text!  And a pic!  And maybe some music!
+<div id="pic">
+    <h2>Richard's Music</h2><br>
+    <img src="/static/media/graphics/magic-history/magic-history.jpg" height="480" width="640" alt="The Music of Richard Cohn"><br>
+</div>
+
+<div id="info">
+    <h2>Richard Cohn</h2>
+    <h3>Songwriter, Singer, Performer, Keyboardist</h3>
+    <br>
+    <p>Richard has composed for film, television, and theater. (Snack of the Dead; The Reception; The Mystery of Marco Monteverdi).</p>
+
+    <p>He has played with: You Are Here; Northern Light; The Crystals; Pier Pressure; Deadline</p>
+
+    <p>He has been pleased to act as accompanist to dance groups, variety artistes and the noted comedy magician Bobby Baxter.</p>
+
+    <p>Richard currently plays with Paul Rossman in Sparks & Sticks as well as the musical groups Sparky Town and The Magical Melodions.
+    </p>
+</div>
+
+
+Need a pic!  And maybe some music!

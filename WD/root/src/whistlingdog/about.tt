@@ -1,13 +1,31 @@
 <link href="https://fonts.googleapis.com/css?family=Petit+Formal+Script" rel="stylesheet">
 
-<div id="about_container">
+<div id="about-container">
 <center><h1>About/Contact</h1></center>
-    <div id="about_text" style="color: darkred">
-        Need some about text!
-    </div>
 
+  <div style="float: left; width: 49%">
+    <div id="about_text">
+        <h2>Richard Cohn</h2>
+        <ul>
+          <li>Member IATSE Local 52 Motion Picture Studio Mechanics
+          <li>Chairman Education Training and Safety Committee Local 52
+          <li>Lighting Gaffer
+          <li>Lighting Director and Designer
+          <li>Key Construction Electric
+          <li>Credits include: The Get Down; Annie; Mr. Poppers Penguins; Sex Drugs and Rock
+                             and Roll; Smurfs; Devil Wears Prada; Sorcerers Apprentice; Ricky
+                             and the Flash, Doubt; What Happens in Vegas; Spin City; Burger
+                            King; L'oriel, Red Lobster, others.
+          <li>Instructor International Photographic Workshops Rockport, Maine
+          <li>Archive Committee Society of Motion Picture and Television Engineers
+          <li>Motion Picture Photographic Lighting and Electric Consultant
+          <li>Film Maker
+          <li>Author
+        </ul>
+    </div>
+  </div>
+  <div style="float: right">
     <div id="contact_text">
-        [% lang.contact_text %]
         <h2>Contact:</h2>
         <div style="margin-left: 2em">
             Richard Cohn<br>
@@ -25,5 +43,5 @@
             History of Mystery</i>
         </div>
     </div>
-
+  </div>
 </div>

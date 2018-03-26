@@ -1,0 +1,26 @@
+#pic {
+  border: thin silver solid;
+  border-radius: 25px;
+  width: 640px;
+  margin: 2em auto;
+  padding: 1em;
+  background-color: #707070;
+}
+
+#pic > h2 {
+  text-align: center;
+  color: white;
+}
+
+#info {
+  border: thin silver solid;
+  border-radius: 25px;
+  background-color: #707070;
+  font-size: 130%;
+  margin: 1em auto;
+  padding: 1em;
+  text-align: center;
+}
+#info > a {
+  color: silver;
+}
