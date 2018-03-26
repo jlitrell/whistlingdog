@@ -1,5 +1,5 @@
 <!-- topnav -->
-<div id="topnav" style="border: thin red solid">
+<div id="topnav">
     <div id="menu">
         <ul>
             <li[% IF req_page == 'index' %] class="active"[% END %] onClick="return true">

@@ -1,21 +1,29 @@
-<img src="/static/media/graphics/site/sparksandsticks.jpg" height="480" width="640" alt="Sparks and Sticks"><br>
+<div id="sspic">
+    <h2 style="text-align: center; color: white">SPARKS & STICKS</h2><br>
+    <img src="/static/media/graphics/site/sparksandsticks2.jpg" height="525" width="640" alt="Sparks and Sticks"><br>
+    <div id="pic-info">
+        <div id="paul-info">
+            Paul Rossman<br>
+            <i>Percussionist / Drummer</i>
+        </div>
+        <div id="rich-info">
+            Richard Cohn<br>
+            <i>Songwriter / Singer / Keyboard</i>
+        </div>
+    </div>
+</div>
 
-SPARKS & STICKS
-                                                             Paul Rossman                                          Richard Cohn
-                                                       Percussionist/Drummer                      Songwriter/ Singer/ Keyboard
+<div id="ssinfo">
+    <h2>Original Melodies and Musings, Songs and Sagas</h2>
 
-                                                             Original Melodies and Musings, Songs and Sagas
+    <h3>Upcoming dates:</h3>
+    <ul>
+        <li>Thursday, July 27th, 2017 - OGGI  217 Prospect Park West in Windsor Terrace, Brooklyn.</li>
+    </ul>
 
-                                      Special added show: TONIGHT!  JULY 22
-
-SPARKS & STICKS  at  Oggi  at 217 Prospect Park West in Windsor Terrace Brooklyn
-
-<h3>Upcoming dates:</h3>
-<ul>
-    <li>Thursday, July 27th, 2017 - OGGI  217 Prospect Park West in Windsor Terrace, Brooklyn.</li>
-</ul>
-
-<h3>Previous shows:</h3>
-<ul>
-    <li>Saturday July 22nd  7 to 9 pm at: Oggi’s  217 Prospect Park  West in Brooklyn USA</li>
-</ul>
+    <h3>Previous shows:</h3>
+    <ul>
+        <li>Saturday July 22nd  7 to 9 pm at: OGGI 217 Prospect Park  West in Brooklyn USA</li>
+        <li>Thursday: June 29th  7 to 9 pm OGGI  217 Prospect Park West in Windsor Terrace, Brooklyn.</li>
+    </ul>
+</div>

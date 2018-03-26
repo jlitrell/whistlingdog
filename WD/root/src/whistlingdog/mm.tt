@@ -1,3 +1,10 @@
-<h1>Magical Melodions</h1>
+<div id="pic">
+    <h2>Magical Melodions</h2><br>
+    <img src="/static/media/graphics/mm/mm.jpg" height="500" width="331" alt="Magical Melodions"><br>
+</div>
 
-<img src="/static/media/graphics/mm/mm.jpg">
+<div id="info">
+    <p>
+      Need some text!
+    </p>
+</div>

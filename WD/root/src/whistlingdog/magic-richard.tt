@@ -1,1 +1,17 @@
-<h1>Richard's Magic</h1>
+<div id="pic">
+    <h2>Magic of Richard Cohn</h2><br>
+    <img src="/static/media/graphics/magic-history/magic-history.jpg" height="480" width="640" alt="Magic of Richard Cohn"><br>
+    <h3 style="text-align: center">A Selection of Strange</h3>
+</div>
+
+<div id="info">
+    <p>Richard has appeared on television, and at conventions, trade shows, hotels, museums and private events throughout the United States.</p>
+
+    <p>He is a regular performer at Monday Night Magic in NYC and at The Coney Island Museum in Brooklyn.</p>
+
+    <p>Richard is an Associate with Silver Star of the Inner Magic Circle of London.</p>
+
+    <p>Richard has written about magic for Magic Magazine, Magicol, Genii, Magic Times, Brooklyn Bridge, Yankee Collector, and Motion Image Journal.</p>
+
+    <p>He has been a magic consultant for Criss Angel, Julie Taymor, ABC TV, Dreamworks, and Disney.</p>
+</div>

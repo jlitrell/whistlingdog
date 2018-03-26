@@ -1,1 +1,10 @@
-<h1>Magic of Coney Island</h1>
+<div id="pic">
+    <h2>Magic of Coney Island</h2><br>
+    <img src="/static/media/graphics/magic-history/magic-history.jpg" height="480" width="640" alt="Magic of Coney Island"><br>
+</div>
+
+<div id="info">
+    <p>
+      Richard has presented programs of <i>The Magic of Coney Island</i> for the Magic Circle of London, the Society of American Magicians, and <a href="http://nemca.com/wp/" target="_blank">the New England Magic Collectors Association</a>. He regularly performs and consults at The Coney Island Museum on Surf Avenue in Coney Island, Brooklyn, USA.
+    </p>
+</div>

@@ -2,12 +2,28 @@
 
 <div id="about_container">
 <center><h1>About/Contact</h1></center>
-    <div id="about_text">
-        [% lang.about_text %]
+    <div id="about_text" style="color: darkred">
+        Need some about text!
     </div>
 
     <div id="contact_text">
         [% lang.contact_text %]
+        <h2>Contact:</h2>
+        <div style="margin-left: 2em">
+            Richard Cohn<br>
+            Phone: (718) 499-6223
+        </div>
+
+[Photo]
+
+        <h3>To Book:</h3>
+        <div style="margin-left: 2em">
+            Richard Cohn<br>
+            <i>Sparks & Sticks<br>
+            Magic of Coney Island<br>
+            The Magical Melodions<br>
+            History of Mystery</i>
+        </div>
     </div>
 
 </div>

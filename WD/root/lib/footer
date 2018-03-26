@@ -1,8 +1,9 @@
 <!-- footer -->
 <div id="footer">
+  <div id="footer-content">
     <div id="bottomnav">
         [% lang.built_by_greanvine %]
     </div>
-
+  </div>
 </div>
 <!-- /footer -->

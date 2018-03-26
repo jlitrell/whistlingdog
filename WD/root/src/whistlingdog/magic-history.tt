@@ -1,2 +1,8 @@
-<h1>History of Magic</h1>
-<img src="/static/media/graphics/magic-history/magic-history.jpg"</img>
+<div id="pic">
+    <h2>History of Magic</h2><br>
+    <img src="/static/media/graphics/magic-history/magic-history.jpg" height="480" width="640" alt="History of Magic"><br>
+</div>
+
+<div id="info">
+    <p>Richard Cohn has written on magic history for a variety of publications. His particular areas of expertise include conjurors involved in early cinema (<i>Who Put the Magic in Movies?</i> SMPTE Journal), The Magic of Coney Island; The Magic of Brooklyn (<i>Brooklyn Magicians in the Brooklyn Eagle Prior to 1903</i>), and the History of Magic Shops, Manufacturers and Dealers. He has been featured in articles in The New York Times, New York Daily News, and The New York Sun.</p>
+</div>
