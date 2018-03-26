@@ -2,8 +2,6 @@
 
 use lib qw |
   /home/whistlingdog/local/perl/lib/perl5
-  /home/whistlingdog/local/perl/share/perl/5.10.1
-  /home/whistlingdog/local/perl/lib/perl/5.10.1
   /home/whistlingdog/local/perl/lib
 | ;
 
