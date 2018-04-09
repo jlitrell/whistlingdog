@@ -1,10 +1,20 @@
 <div id="pic">
-    <h2>Magical Melodions</h2><br>
-    <img src="/static/media/graphics/mm/mm.jpg" height="500" width="331" alt="Magical Melodions"><br>
+    <h2>The Magical Melodions</h2><br>
+    <img src="/static/media/graphics/mm/mm2.jpg" height="382" width="300" alt="Magical Melodions">
+    <img src="/static/media/graphics/mm/mm.jpg" style="float: right" height="453" width="300" alt="Magical Melodions">
+    <br ><div style='clear:both'></div>
+    <img src="/static/media/graphics/mm/mm3.jpg" height="365" width="300" alt="Magical Melodions">
 </div>
 
 <div id="info">
     <p>
-      Need some text!
+      Celebrate the fabulous melodies of the '20s, '30s, and '40s in a sparkling
+      entertainment that brings good times and happy memories to young and old
+      alike.  Toe-tapping tunes plus a dash of novelty magic is the winning
+      combination that makes this outstanding show delightfully different!
     </p>
+    <br>
+    <h4>Special Events ⋅ Banquets ⋅ Corporate Functions ⋅ Holiday Parties ⋅
+    Performing Arts Centers ⋅ Hotels & Resorts</h4>
+
 </div>

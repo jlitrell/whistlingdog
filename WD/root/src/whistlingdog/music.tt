@@ -1,6 +1,7 @@
 <div id="pic">
     <h2>Richard's Music</h2><br>
-    <img src="/static/media/graphics/magic-history/magic-history.jpg" height="480" width="640" alt="The Music of Richard Cohn"><br>
+
+    <img src="/static/media/graphics/site/sparksandsticks2.jpg" height="525" width="640" alt="The Music of Richard Cohn"><br>
 </div>
 
 <div id="info">
