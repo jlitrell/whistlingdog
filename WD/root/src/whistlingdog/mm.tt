@@ -1,9 +1,17 @@
 <div id="pic">
     <h2>The Magical Melodions</h2><br>
-    <img src="/static/media/graphics/mm/mm2.jpg" height="382" width="300" alt="Magical Melodions">
-    <img src="/static/media/graphics/mm/mm.jpg" style="float: right" height="453" width="300" alt="Magical Melodions">
-    <br ><div style='clear:both'></div>
-    <img src="/static/media/graphics/mm/mm3.jpg" height="365" width="300" alt="Magical Melodions">
+
+    <div id="pics">
+    <div style="width: 49%; float: left">
+        <img src="/static/media/graphics/mm/magical-melodions-alexandra.jpg" height="382" width="300" alt="Magical Melodions - Alexandra Baltarzuk"><br>
+        <img src="/static/media/graphics/mm/magical-melodions-richard.jpg" height="446" width="300" alt="Magical Melodions - Richard Cohn">
+    </div>
+    <div style="width: 49%; float: right">
+        <img src="/static/media/graphics/mm/magical-melodions.jpg" height="457" width="300" alt="Magical Melodions">
+        <img src="/static/media/graphics/mm/magical-melodions-2.jpg" height="365" width="300" alt="Magical Melodions">
+    </div>
+    <br>
+    </div>
 </div>
 
 <div id="info">
@@ -16,5 +24,4 @@
     <br>
     <h4>Special Events ⋅ Banquets ⋅ Corporate Functions ⋅ Holiday Parties ⋅
     Performing Arts Centers ⋅ Hotels & Resorts</h4>
-
 </div>

@@ -6,10 +6,13 @@
   padding: 1em;
   background-color: #707070;
 }
-
 #pic > h2 {
   text-align: center;
   color: white;
+}
+
+#pics {
+  display: inline-block;
 }
 
 #info {

@@ -30,6 +30,10 @@
             <li[% IF req_page == 'about' %] class="active"[% END %] onClick="return true">
                 <a href="/about">[% lang.${'nav.about'} %]</a>
             </li>
+
+            <li[% IF req_page == 'contact' %] class="active"[% END %] onClick="return true">
+                <a href="/contact">Contact</a>
+            </li>
         </ul>
     </div>
 </div>

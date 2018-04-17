@@ -1,11 +1,13 @@
 <link href="https://fonts.googleapis.com/css?family=Petit+Formal+Script" rel="stylesheet">
 
 <div id="about-container">
-<center><h1>About/Contact</h1></center>
+<center><h1>About</h1></center>
 
   <div style="float: left; width: 49%">
     <div id="about_text">
         <h2>Richard Cohn</h2>
+        <h3>Motion Picture Photographic Lighting</h3>
+        <br>
         <ul>
           <li>Member IATSE Local 52 Motion Picture Studio Mechanics
           <li>Chairman Education Training and Safety Committee Local 52
@@ -22,26 +24,6 @@
           <li>Film Maker
           <li>Author
         </ul>
-    </div>
-  </div>
-  <div style="float: right">
-    <div id="contact_text">
-        <h2>Contact:</h2>
-        <div style="margin-left: 2em">
-            Richard Cohn<br>
-            Phone: (718) 499-6223
-        </div>
-
-[Photo]
-
-        <h3>To Book:</h3>
-        <div style="margin-left: 2em">
-            Richard Cohn<br>
-            <i>Sparks & Sticks<br>
-            Magic of Coney Island<br>
-            The Magical Melodions<br>
-            History of Mystery</i>
-        </div>
     </div>
   </div>
 </div>

@@ -92,6 +92,18 @@ sub about : Chained('/') : PathPart('about') : Args(0) {
 }
 
 
+sub contact : Chained('/') : PathPart('contact') : Args(0) {
+    my ($self, $c) = @_;
+
+    my $language = 'en';
+    $c->stash(
+        'req_page' => 'contact',
+        'template' => 'whistlingdog/contact.tt',
+        'lang'     => $c->model('DB')->schema->GLOBAL_LANG->{$language},
+    );
+}
+
+
 __PACKAGE__->meta->make_immutable;
 
 1;

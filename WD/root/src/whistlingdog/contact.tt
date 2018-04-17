@@ -1,0 +1,23 @@
+<div id="about-container">
+<center><h1>About</h1></center>
+
+
+    <div id="contact_text">
+        <h2>Contact:</h2>
+        <div style="margin-left: 2em">
+            Richard Cohn<br>
+            Phone: (718) 499-6223<br>
+            <a href="mailto:whistlingdog@earthlink.net">whistlingdog@earthlink.net</a>
+        </div>
+        <br>
+        <h3>To Book:</h3>
+        <div style="margin-left: 2em">
+            Richard Cohn<br>
+            <i>Sparks & Sticks<br>
+            Magic of Coney Island<br>
+            The Magical Melodions<br>
+            History of Mystery</i>
+        </div>
+    </div>
+
+</div>
