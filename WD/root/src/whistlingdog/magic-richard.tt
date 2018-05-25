@@ -1,14 +1,27 @@
 <div id="pic">
-    <h2>Magic of Richard Cohn</h2><br>
-    <img src="/static/media/graphics/magic-rich/richard-cohn-at-fao-schwarz-for-fantasma.jpg" height="246" width="300" alt="Richard Cohn at FAO Schwarz for Fantasma">
-    <img src="/static/media/graphics/magic-rich/richard-cohn-magic.jpg" style="float: right" height="246" width="300" alt="The Magic of Richard Cohn">
-    <br>
-    <img src="/static/media/graphics/magic-rich/rich-cohn-alexandra-baltarzuk-peter-samelson-rocco-silano.jpg" height="217" width="300" alt="Magic of Richard Cohn">
-    <img src="/static/media/graphics/magic-rich/richard-cohn-with-bob-baxter.jpg" style="float: right" height="222" width="300" alt=" Richard Cohn with Bob Baxter"><br>
+    <h2>The Magic of Richard Cohn</h2><br>
+
+    <div id="gallery">
+        <div id="galleria">
+            <a href="/static/media/graphics/magic-rich/richard-cohn-at-fao-schwarz-for-fantasma-m.jpg">
+                <img src="/static/media/graphics/magic-rich/richard-cohn-at-fao-schwarz-for-fantasma-t.jpg" data-big="/static/media/graphics/magic-rich/richard-cohn-at-fao-schwarz-for-fantasma-l.jpg" data-description="Richard Cohn at FAO Schwarz for Fantasma" alt="Richard Cohn at FAO Schwarz for Fantasma"></a>
+
+            <a href="/static/media/graphics/magic-rich/richard-cohn-magic-m.jpg">
+                <img src="/static/media/graphics/magic-rich/richard-cohn-magic-t.jpg" data-big="/static/media/graphics/magic-rich/richard-cohn-magic-l.jpg" alt="The Magic of Richard Cohn"></a>
+
+            <a href="/static/media/graphics/magic-rich/rich-cohn-alexandra-baltarzuk-peter-samelson-rocco-silano-m.jpg">
+                <img src="/static/media/graphics/magic-rich/rich-cohn-alexandra-baltarzuk-peter-samelson-rocco-silano-t.jpg" data-big="/static/media/graphics/magic-rich/rich-cohn-alexandra-baltarzuk-peter-samelson-rocco-silano-l.jpg" alt="Richard Cohn with Alexandra Baltarzuk, Peter Samelson, and Rocco Silano"></a>
+
+            <a href="/static/media/graphics/magic-rich/richard-cohn-with-bob-baxter-m.jpg">
+                <img src="/static/media/graphics/magic-rich/richard-cohn-with-bob-baxter-t.jpg" data-big="/static/media/graphics/magic-rich/richard-cohn-with-bob-baxter-l.jpg" alt=" Richard Cohn with Bob Baxter"></a>
+
+        </div>
+    </div>
+
     <h3 style="text-align: center">A Selection of Strange</h3>
 </div>
 
-<div id="info">
+<div id="info2">
     <p>Richard has appeared on television, and at conventions, trade shows, hotels, museums and private events throughout the United States.</p>
 
     <p>He is a regular performer at Monday Night Magic in NYC and at The Coney Island Museum in Brooklyn.</p>
@@ -19,3 +32,4 @@
 
     <p>He has been a magic consultant for Criss Angel, Julie Taymor, ABC TV, Dreamworks, and Disney.</p>
 </div>
+

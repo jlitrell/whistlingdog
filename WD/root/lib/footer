@@ -5,5 +5,33 @@
         [% lang.built_by_greanvine %]
     </div>
   </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+  <script src="/static/js/galleria/galleria.min.js"></script>
+  <script>
+    Galleria.loadTheme('/static/js/galleria/themes/classic/galleria.classic.min.js');
+    Galleria.run("#galleria");
+    Galleria.configure({
+        idleMode: false,
+        lightbox: true,
+        maxScaleRatio: 1,
+        transition: 'fade',
+        _toggleInfo:false
+    });
+
+    Galleria.ready(function() {
+      $("#info").html('<h2>"' + Galleria.get(0)._data[0].title + '"</h2>');
+      $("#description").html(Galleria.get(0)._data[0].description);
+
+      this.bind('image', function(e) {
+        $("#info").html('<h2>"' + e.galleriaData.title + '"</h2>');
+        $("#description").html(e.galleriaData.description);
+      });
+    });
+  </script>
+
 </div>
 <!-- /footer -->

@@ -1,7 +1,15 @@
 <div id="pic">
     <h2>The History of Mystery</h2><br>
-    <img src="/static/media/graphics/magic-history/richard-cohn-magic-circle-centanary.jpg" height="500" width="386" alt="Richard Cohn presenting at the Magic Circle Centanary"><br>
-    Richard Cohn presenting at the Magic Circle Centenary
+
+    <div id="gallery">
+        <div id="galleria">
+            <a href="/static/media/graphics/magic-history/richard-cohn-magic-circle-centanary-m.jpg">
+                <img src="/static/media/graphics/magic-history/richard-cohn-magic-circle-centanary-t.jpg" data-big="/static/media/graphics/magic-history/richard-cohn-magic-circle-centanary-l.jpg" data-description="Richard Cohn presenting at the Magic Circle Centanary" alt="Richard Cohn presenting at the Magic Circle Centanary"></a>
+            <a href="/static/media/graphics/magic-history/history-of-mystery-m.jpg">
+                <img src="/static/media/graphics/magic-history/history-of-mystery-t.jpg" data-big="/static/media/graphics/magic-history/history-of-mystery-l.jpg" data-description="The History of Mystery" alt="The History of Mystery"></a>
+        </div>
+    </div>
+
 </div>
 
 <div id="info">
