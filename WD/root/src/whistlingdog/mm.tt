@@ -1,20 +1,22 @@
 <div id="pic">
     <h2>The Magical Melodions</h2><br>
-
-    <div id="pics">
-    <div style="width: 49%; float: left">
-        <img src="/static/media/graphics/mm/magical-melodions-alexandra.jpg" height="382" width="300" alt="Magical Melodions - Alexandra Baltarzuk"><br>
-        <img src="/static/media/graphics/mm/magical-melodions-richard.jpg" height="446" width="300" alt="Magical Melodions - Richard Cohn">
-    </div>
-    <div style="width: 49%; float: right">
-        <img src="/static/media/graphics/mm/magical-melodions.jpg" height="457" width="300" alt="Magical Melodions">
-        <img src="/static/media/graphics/mm/magical-melodions-2.jpg" height="365" width="300" alt="Magical Melodions">
-    </div>
-    <br>
+    <div id="gallery">
+        <div id="galleria">
+            <a href="/static/media/graphics/mm/magical-melodions-m.jpg">
+                <img src="/static/media/graphics/mm/magical-melodions-t.jpg" data-big="/static/media/graphics/mm/magical-melodions-l.jpg" data-description="Magical Melodions" alt="Magical Melodions"></a>
+            <a href="/static/media/graphics/mm/magical-melodions-2-m.jpg">
+                <img src="/static/media/graphics/mm/magical-melodions-2-t.jpg" data-big="/static/media/graphics/mm/magical-melodions-2-l.jpg" data-description="Magical Melodions" alt="Magical Melodions"></a>
+            <a href="/static/media/graphics/mm/magical-melodions-alexandra-m.jpg">
+                <img src="/static/media/graphics/mm/magical-melodions-alexandra-t.jpg" data-big="/static/media/graphics/mm/magical-melodions-alexandra-l.jpg" data-description="Magical Melodions - Alexandra Baltarzuk" alt="Magical Melodions - Alexandra Baltarzuk"></a>
+            <a href="/static/media/graphics/mm/magical-melodions-richard-m.jpg">
+                <img src="/static/media/graphics/mm/magical-melodions-richard-t.jpg" data-big="/static/media/graphics/mm/magical-melodions-richard-l.jpg" data-description="Magical Melodions - Richard Cohn" alt="Magical Melodions - Richard Cohn"></a>
+            <a href="/static/media/graphics/mm/magical-melodions-3-m.jpg">
+                <img src="/static/media/graphics/mm/magical-melodions-3-t.jpg" data-big="/static/media/graphics/mm/magical-melodions-3-l.jpg" data-description="Magical Melodions" alt="Magical Melodions"></a>
+        </div>
     </div>
 </div>
 
-<div id="info">
+<div id="text">
     <p>
       Celebrate the fabulous melodies of the '20s, '30s, and '40s in a sparkling
       entertainment that brings good times and happy memories to young and old

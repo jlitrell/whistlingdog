@@ -1,10 +1,17 @@
 <div id="pic">
     <h2>Richard's Music</h2><br>
 
-    <img src="/static/media/graphics/site/sparksandsticks2.jpg" height="525" width="640" alt="The Music of Richard Cohn"><br>
+    <div id="gallery">
+        <div id="galleria">
+            <a href="/static/media/graphics/music-rich/richard-cohn-music-m.jpg">
+                <img src="/static/media/graphics/music-rich/richard-cohn-music-t.jpg" data-big="/static/media/graphics/music-rich/richard-cohn-music-l.jpg" data-description="Richard Cohn" alt="The Music of Richard Cohn"></a>
+        </div>
+    </div>
+
 </div>
 
-<div id="info">
+
+<div id="text">
     <h2>Richard Cohn</h2>
     <h3>Songwriter, Singer, Performer, Keyboardist</h3>
     <br>

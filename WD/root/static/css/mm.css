@@ -15,7 +15,7 @@
   display: inline-block;
 }
 
-#info {
+#text {
   border: thin silver solid;
   border-radius: 25px;
   background-color: #707070;
@@ -23,6 +23,6 @@
   margin: 1em auto;
   padding: 1em;
 }
-#info > a {
+#text > a {
   color: silver;
 }
