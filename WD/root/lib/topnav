@@ -3,24 +3,24 @@
     <div id="menu">
         <ul>
             <li[% IF req_page == 'index' %] class="active"[% END %] onClick="return true">
-                <a href="/">[% lang.${'nav.home'} %]</a>
+                <a href="/">Home</a>
             </li>
 
             <li[% IF req_page == 'sparks' %] class="active"[% END %] onClick="return true">
-                <a href="/sparks-and-sticks">[% lang.${'nav.sparks'} %]</a>
+                <a href="/sparks-and-sticks">Sparks & Sticks</a>
             </li>
 
             <li class="has-sub[% IF req_page == 'magic' %] active[% END %]" onClick="return true">
-                <a><span>[% lang.${'nav.magic'} %]</span></a>
+                <a><span>Magic</span></a>
                 <ul>
-                    <li><a href="/magic-richard"><span>- [% lang.${'nav.magic-richard'} %]</span></a></li>
-                    <li><a href="/magic-history"><span>- [% lang.${'nav.magic-history'} %]</span></a></li>
-                    <li><a href="/magic-of-coney-island"><span>- [% lang.${'nav.magic-ci'} %]</span></a></li>
+                    <li><a href="/magic-richard"><span>- Magic: Richard</span></a></li>
+                    <li><a href="/magic-history"><span>- Magic: History</span></a></li>
+                    <li><a href="/magic-of-coney-island"><span>- Magic of Coney Island</span></a></li>
                 </ul>
             </li>
 
             <li[% IF req_page == 'mm' %] class="active"[% END %] onClick="return true">
-                <a href="/magical-melodions">[% lang.${'nav.mm'} %]</a>
+                <a href="/magical-melodions">Magical Melodions</a>
             </li>
 
             <li[% IF req_page == 'music' %] class="active"[% END %] onClick="return true">
@@ -28,11 +28,11 @@
             </li>
 
             <li[% IF req_page == 'about' %] class="active"[% END %] onClick="return true">
-                <a href="/about">[% lang.${'nav.about'} %]</a>
+                <a href="/about">About</a>
             </li>
 
             <li[% IF req_page == 'contact' %] class="active"[% END %] onClick="return true">
-                <a href="/contact">Contact</a>
+                <a href="/contact">Motion Picture Photographic Lighting</a>
             </li>
         </ul>
     </div>
