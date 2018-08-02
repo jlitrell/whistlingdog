@@ -5,6 +5,8 @@
         <div id="galleria">
             <a href="/static/media/graphics/music-rich/richard-cohn-music-m.jpg">
                 <img src="/static/media/graphics/music-rich/richard-cohn-music-t.jpg" data-big="/static/media/graphics/music-rich/richard-cohn-music-l.jpg" data-description="Richard Cohn" alt="The Music of Richard Cohn"></a>
+            <a href="/static/media/graphics/music-rich/sparksandsticks-m.jpg">
+                <img src="/static/media/graphics/music-rich/sparksandsticks-t.jpg" data-big="/static/media/graphics/music-rich/sparksandsticks-l.jpg" data-description="Sparks & Sticks - Richard Cohn and Paul Rossman" alt="Sparks & Sticks"></a>
         </div>
     </div>
 

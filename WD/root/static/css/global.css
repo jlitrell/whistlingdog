@@ -71,7 +71,7 @@ hr {
 #topnav {
     border: thin black solid;
     border-radius: 25px;
-    height: 2em;
+    height: 27px;
     text-align: center;
     width: 980px;
     margin: 0 auto;
@@ -96,6 +96,7 @@ hr {
     margin: 0;
     float: left;
     display: block;
+    border-radius: 25px;
     position: relative;
     background: none;
 }
@@ -103,8 +104,9 @@ hr {
 #menu > ul > li > a {
     outline: none;
     display: block;
+    border-radius: 25px;
     position: relative;
-    padding: 8px 28px 4px 28px;
+    padding: 8px 22px 4px 22px;
     font: bold 13px/100% Helvetica, Arial, sans-serif;
     text-align: center;
     text-decoration: none;

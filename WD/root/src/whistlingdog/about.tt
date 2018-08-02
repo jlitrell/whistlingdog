@@ -1,15 +1,16 @@
 <link href="https://fonts.googleapis.com/css?family=Petit+Formal+Script" rel="stylesheet">
 
-<div id="about-container">
-<center><h1>About</h1></center>
+<div id="about_container">
+  <br>
+  <center><h1>Motion Picture Photographic Lighting</h1></center>
 
-  <div style="float: left; width: 49%">
+  <div style="width: 49%">
     <div id="about_text">
+        <br>
         <h2>Richard Cohn</h2>
-        <h3>Motion Picture Photographic Lighting</h3>
         <br>
         <ul>
-          <li>Member IATSE Local 52 Motion Picture Studio Mechanics
+          <li>Member IATSE Local 52 Motion Picture Studio Mechanics</li>
           <li>Chairman Education Training and Safety Committee Local 52
           <li>Lighting Gaffer
           <li>Lighting Director and Designer

@@ -24,15 +24,15 @@
             </li>
 
             <li[% IF req_page == 'music' %] class="active"[% END %] onClick="return true">
-                <a href="/richard-music">[% lang.${'nav.richard-music'} %]</a>
+                <a href="/richard-music">Richard's Music</a>
             </li>
 
             <li[% IF req_page == 'about' %] class="active"[% END %] onClick="return true">
-                <a href="/about">About</a>
+                <a href="/about">Motion Picture Photographic Lighting</a>
             </li>
 
             <li[% IF req_page == 'contact' %] class="active"[% END %] onClick="return true">
-                <a href="/contact">Motion Picture Photographic Lighting</a>
+                <a href="/contact">Contact</a>
             </li>
         </ul>
     </div>

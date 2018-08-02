@@ -1,3 +1,7 @@
-#about-container {
+#about_container {
     overflow: hidden;
+}
+
+#about_text {
+    padding-left: 1em;
 }
