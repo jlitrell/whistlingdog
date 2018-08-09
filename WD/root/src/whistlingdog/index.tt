@@ -1,18 +1,10 @@
-<!--
-<div id="pic">
-    <h2 style="text-align: center; color: white">Effervescent Sublime Vibrations</h2><br>
-    <img src="/static/media/graphics/site/sparksandsticks.jpg" height="480" width="640" alt="Sparks and Sticks"><br>
-    <h3 style="text-align: center">SPARKS & STICKS ~ Sonic Incandescence</h3>
-</div>
--->
-
 <div id="info">
     WhistlingDog.com is home to a diverse series of endeavors embracing Motion Picture Lighting Specialties as well as Music and Magic projects under the direction of Richard Cohn. Here at the website are represented:<br>
 
-    <a href="/about">Richard Cohn</a> ~
-    <a href="/richard-music">Richard's Music</a> ~
+    <a href="/about">Motion Picture Photographic Lighting</a> ~
     <a href="/sparks-and-sticks">Sparks & Sticks</a> ~
-    <a href="/magical-melodions">The Magical Melodions</a> ~
     <a href="/magic-of-coney-island">The Magic of Coney Island</a> ~
-    <a href="/magic-history">History of Mystery</a>
+    <a href="/magic-history">History of Mystery</a> ~
+    <a href="/magical-melodions">The Magical Melodions</a> ~
+    <a href="/richard-music">Richard's Music</a>
 </div>
