@@ -24,3 +24,17 @@
 #info > a {
   color: silver;
 }
+
+#upcoming {
+    padding-top: 1em;
+    display: grid;
+    grid-template-columns: 2;
+}
+
+#upcoming-ss {
+    grid-column: 1;
+}
+
+#upcoming-rm {
+    grid-column: 2;
+}

@@ -1,5 +1,5 @@
 <div id="info">
-    WhistlingDog.com is home to a diverse series of endeavors embracing Motion Picture Lighting Specialties as well as Music and Magic projects under the direction of Richard Cohn. Here at the website are represented:<br>
+    WhistlingDog.com is home to a diverse series of endeavors embracing Music and Magic projects as well as Motion Picture Lighting Specialties under the direction of Richard Cohn. Here at the website are represented:<br>
 
     <a href="/about">Motion Picture Photographic Lighting</a> ~
     <a href="/sparks-and-sticks">Sparks & Sticks</a> ~
@@ -7,4 +7,36 @@
     <a href="/magic-history">History of Mystery</a> ~
     <a href="/magical-melodions">The Magical Melodions</a> ~
     <a href="/richard-music">Richard's Music</a>
+
+    <br><br>
+    <h3>Upcoming Performances:</h3>
+
+    <div id="upcoming">
+
+
+      <div id="upcoming-ss">
+        <h3 style="color: blue">Sparks & Sticks</h3>
+        <h4>Sunday, October 7th, at 4 pm</h4>
+          <h4>Old Stone House</h4>
+            J.J. Byrne Park<br>
+            5th Ave. and 3rd St., Brooklyn<br>
+            <i>(Good Coffeehouse Music Parlor Series)</i>
+        <br><br>
+          <h4>Sunday, November 25th, at 4 pm</h4>
+          <h4>Triad Theater</h4>
+            158 W. 72nd St., NYC
+      </div>
+      <div id="upcoming-rm">
+          <h3 style="color: blue">The Magic of Richard Cohn</h3>
+          <h4>Sunday, November 4th, at 12 noon</h4>
+          <h4>Magic at Coney</h4>
+            Coney Island USA<br>
+            1208 Surf Ave., Brooklyn
+        <br><br>
+          <h4>Monday, October 22nd, at 8 pm</h4>
+          <h4>Monday Night Magic</h4>
+            Players Theater<br>
+            115 Macdougal St., NYC
+      </div>
+    </div>
 </div>
