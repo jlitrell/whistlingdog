@@ -16,18 +16,13 @@
 
       <div id="upcoming-ss">
         <h3 style="color: blue">Sparks & Sticks</h3>
-        <h4>Sunday, October 7th, at 4 pm</h4>
-          <h4>Old Stone House</h4>
-            J.J. Byrne Park<br>
-            5th Ave. and 3rd St., Brooklyn<br>
-            <i>(Good Coffeehouse Music Parlor Series)</i>
-        <br><br>
           <h4>Sunday, November 25th, at 4 pm</h4>
           <h4>Triad Theater</h4>
             158 W. 72nd St., NYC
       </div>
       <div id="upcoming-rm">
           <h3 style="color: blue">The Magic of Richard Cohn</h3>
+<!--
           <h4>Monday, October 22nd, at 8 pm</h4>
           <h4>Monday Night Magic</h4>
             Players Theater<br>
@@ -37,6 +32,7 @@
           <h4>Magic at Coney</h4>
             Coney Island USA<br>
             1208 Surf Ave., Brooklyn
+-->
       </div>
     </div>
 </div>
