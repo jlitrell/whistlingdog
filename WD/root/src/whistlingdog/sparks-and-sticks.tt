@@ -1,19 +1,20 @@
-<div id="sspic">
-    <h2 style="text-align: center; color: white">SPARKS & STICKS</h2><br>
-    <img src="/static/media/graphics/site/sparksandsticks.jpg" height="480" width="640" alt="Sparks and Sticks"><br>
-    <div id="pic-info">
-        <div id="paul-info">
-            Paul Rossman<br>
-            <i>Percussionist / Drummer</i>
-        </div>
-        <div id="rich-info">
-            Richard Cohn<br>
-            <i>Songwriter / Singer / Keyboard</i>
+<div id="pic">
+    <h2>SPARKS & STICKS</h2><br>
+
+    <div id="gallery">
+        <div id="galleria">
+            <a href="/static/media/graphics/sparks-sticks/sparksandsticks-m.jpg">
+                <img src="/static/media/graphics/sparks-sticks/sparksandsticks-t.jpg" data-big="/static/media/graphics/sparks-sticks/sparksandsticks-l.jpg" data-description="Paul Rossman, Percussionist / Drummer<br>Richard Cohn, Songwriter / Singer / Keyboards" alt="Paul Rossman, Percussionist / Drummer - Richard Cohn, Songwriter / Singer / Keyboards"></a>
+
+            <a href="/static/media/graphics/sparks-sticks/sparksandsticks-2-m.jpg">
+                <img src="/static/media/graphics/sparks-sticks/sparksandsticks-2-t.jpg" data-big="/static/media/graphics/sparks-sticks/sparksandsticks-2-l.jpg" alt=""></a>
+
         </div>
     </div>
+
 </div>
 
-<div id="ssinfo">
+<div id="text">
     <h2>Sonic Incandescence</h2>
     <br>
     <p>
@@ -27,7 +28,7 @@
       As seen at Fornino, Oggi, Kettle and Thread, and The Old Stone House Good Coffeehouse Series.
     </p>
     <br>
-
+<!--
       Upcoming performances:
       <ul>
         <li>
@@ -36,6 +37,6 @@
             158 W. 72nd St., NYC
         </li>
       </ul>
-
+-->
     <h2>Effervescent Sublime Vibrations</h2>
 </div>

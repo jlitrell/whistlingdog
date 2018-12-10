@@ -1,4 +1,5 @@
-#sspic {
+
+#pic {
   border: thin silver solid;
   border-radius: 25px;
   width: 640px;
@@ -6,20 +7,16 @@
   padding: 1em;
   background-color: #707070;
 }
+#pic > h2 {
+  text-align: center;
+  color: white;
+}
 
-#pic-info {
-  width: 100%;
+#pics {
   display: inline-block;
 }
-#paul-info {
-  float: left;
-}
-#rich-info {
-  text-align: right;
-  float: right;
-}
 
-#ssinfo {
+#text {
   border: thin silver solid;
   border-radius: 25px;
   background-color: #707070;
@@ -27,9 +24,6 @@
   margin: 1em auto;
   padding: 1em;
 }
-#ssinfo > a {
+#text > a {
   color: silver;
-}
-#ssinfo > h2 {
-  text-align: center;
 }

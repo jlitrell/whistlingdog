@@ -13,30 +13,27 @@
 
     <div id="upcoming">
 
-
+<!--
       <div id="upcoming-ss">
         <h3 style="color: blue">Sparks & Sticks</h3>
           <h4>Sunday, November 25th, at 4 pm</h4>
           <h4>Triad Theater</h4>
             158 W. 72nd St., NYC
       </div>
+-->
       <div id="upcoming-rm">
           <h3 style="color: blue">The Magic of Richard Cohn</h3>
-
-          <h4>Monday, December 10th and January 21st at 8 pm</h4>
-          <h4>Monday Night Magic</h4>
-            Close-up magic<br>
-            Players Theater<br>
-            115 Macdougal St., NYC
-
-          <br><br>
-
           <h4>Sunday December 16th at 12 noon</h4>
           <h4>Magic at Coney</h4>
             Coney Island Museum<br>
             1208 Surf Ave., Coney Island, N.Y.<br>
             $10 adults / $5 children
-
+          <br><br>
+          <h4>Monday, January 21st at 8 pm</h4>
+          <h4>Monday Night Magic</h4>
+            Close-up magic<br>
+            Players Theater<br>
+            115 Macdougal St., NYC
       </div>
     </div>
 </div>
