@@ -27,14 +27,12 @@
 
 #upcoming {
     padding-top: 1em;
-    display: grid;
-    grid-template-columns: 2;
+    display: flex;
+    justify-content: center;
 }
 
 #upcoming-ss {
-    grid-column: 1;
 }
 
 #upcoming-rm {
-    grid-column: 2;
 }

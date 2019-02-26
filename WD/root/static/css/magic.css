@@ -23,3 +23,18 @@
 #text > a {
   color: silver;
 }
+
+#upcoming {
+    padding-top: 1em;
+    display: flex;
+    justify-content: center;
+}
+
+#upcoming h3 {
+    color: silver;
+    font-style: italic;
+}
+
+#upcoming > div {
+    padding: 0 2em;
+}
