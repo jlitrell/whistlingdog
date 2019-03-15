@@ -4,7 +4,7 @@
   <br>
   <center><h1>Motion Picture Photographic Lighting</h1></center>
 
-  <div style="width: 49%">
+  <div style="width: 300px; float: left; padding-right: 2em">
     <div id="about_text">
         <br>
         <h2>Richard Cohn</h2>
@@ -26,5 +26,8 @@
           <li>Author
         </ul>
     </div>
+  </div>
+  <div style="overflow: hidden; padding-top: 2em">
+    <img src="/static/media/graphics/about/richard-cohn-motion-picture-lighting.jpg" height="548" width="700" alt="Whistling Dog">
   </div>
 </div>
