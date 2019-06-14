@@ -6,8 +6,13 @@
                 <a href="/">Home</a>
             </li>
 
-            <li[% IF req_page == 'sparks' %] class="active"[% END %] onClick="return true">
-                <a href="/sparks-and-sticks">Sparks & Sticks</a>
+            <li class="has-sub[% IF req_page == 'music' %] active[% END %]" onClick="return true">
+                <a><span>Music</span></a>
+                <ul>
+                    <li><a href="/richard-music"><span>- Richard's Music</span></a></li>
+                    <li><a href="/sparks-and-sticks"><span>- Sparks & Sticks</span></a></li>
+                    <li><a href="/sparky-town-3"><span>- Sparky Town 3</span></a></li>
+                </ul>
             </li>
 
             <li class="has-sub[% IF req_page == 'magic' %] active[% END %]" onClick="return true">
@@ -21,10 +26,6 @@
 
             <li[% IF req_page == 'mm' %] class="active"[% END %] onClick="return true">
                 <a href="/magical-melodions">Magical Melodions</a>
-            </li>
-
-            <li[% IF req_page == 'music' %] class="active"[% END %] onClick="return true">
-                <a href="/richard-music">Richard's Music</a>
             </li>
 
             <li[% IF req_page == 'about' %] class="active"[% END %] onClick="return true">

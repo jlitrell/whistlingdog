@@ -13,8 +13,20 @@ sub sparks : Chained('/') : PathPart('sparks-and-sticks') : Args(0) {
 
     my $language = 'en';
     $c->stash(
-        'req_page' => 'sparks',
+        'req_page' => 'music',
         'template' => 'whistlingdog/sparks-and-sticks.tt',
+        'lang'     => $c->model('DB')->schema->GLOBAL_LANG->{$language},
+    );
+}
+
+
+sub sparkytown : Chained('/') : PathPart('sparky-town-3') : Args(0) {
+    my ($self, $c) = @_;
+
+    my $language = 'en';
+    $c->stash(
+        'req_page' => 'music',
+        'template' => 'whistlingdog/sparky-town-3.tt',
         'lang'     => $c->model('DB')->schema->GLOBAL_LANG->{$language},
     );
 }

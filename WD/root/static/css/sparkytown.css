@@ -1,0 +1,29 @@
+
+#pic {
+  border: thin silver solid;
+  border-radius: 25px;
+  width: 640px;
+  margin: 2em auto;
+  padding: 1em;
+  background-color: #707070;
+}
+#pic > h2 {
+  text-align: center;
+  color: white;
+}
+
+#pics {
+  display: inline-block;
+}
+
+#text {
+  border: thin silver solid;
+  border-radius: 25px;
+  background-color: #707070;
+  font-size: 130%;
+  margin: 1em auto;
+  padding: 1em;
+}
+#text > a {
+  color: silver;
+}
