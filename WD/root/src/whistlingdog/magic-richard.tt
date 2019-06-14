@@ -36,19 +36,24 @@
 
     <h2 style="text-align: center">Upcoming Performances</h2>
     <div id="upcoming">
-<!--
       <div>
         <h3>Magic at Coney</h3>
-        <h4>Sunday, April 14th at 12 noon</h4>
+        <h4>Sunday, June 30th at 12 noon</h4>
+        <h4>Sunday, July 21st at 12 noon</h4>
+        <h4>Sunday, August 18th at 12 noon</h4>
           Coney Island Museum<br>
           1208 Surf Ave., Coney Island, N.Y.<br>
           $10 adults / $5 children
       </div>
--->
+
       <div>
         <h3>Monday Night Magic</h3>
-        <h4>Monday, May 27th at 8 pm</h4>
         <h4>Monday, July 8th at 8 pm</h4>
+        <h4>August 19th at 8 pm</h4>
+        <h4>October 14th at 8 pm</h4>
+        <h4>November 25th at 8 pm</h4>
+        <h4>January 6th, 2020 at 8 pm</h4>
+
           Close-up magic<br>
           Players Theater<br>
           115 Macdougal St., NYC
