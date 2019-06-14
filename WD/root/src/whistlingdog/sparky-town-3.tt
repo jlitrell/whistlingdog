@@ -5,6 +5,9 @@
         <div id="galleria">
             <a href="/static/media/graphics/music-rich/sparky-town-3-m.jpg">
                 <img src="/static/media/graphics/music-rich/sparky-town-3-t.jpg" data-big="/static/media/graphics/music-rich/sparky-town-3-l.jpg" data-description="SPARKY TOWN 3: Tim Kelly, drums / percussion; John O'Dea, guitar / vocals; Richard Cohn, keys / vocals" alt="SPARKY TOWN 3: Tim Kelly, drums / percussion; John O'Dea, guitar / vocals; Richard Cohn, keys / vocals"></a>
+
+            <a href="/static/media/graphics/music-rich/sparky-town-3-2-m.jpg">
+                <img src="/static/media/graphics/music-rich/sparky-town-3-2-t.jpg" data-big="/static/media/graphics/music-rich/sparky-town-3-2-l.jpg" data-description="SPARKY TOWN 3: Richard Cohn, keys / vocals; Tim Kelly, drums / percussion; John O'Dea, guitar / vocals" alt="SPARKY TOWN 3: Richard Cohn, keys / vocals; Tim Kelly, drums / percussion; John O'Dea, guitar / vocals"></a>
         </div>
     </div>
 
