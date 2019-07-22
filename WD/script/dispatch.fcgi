@@ -1,8 +1,8 @@
 #!/usr/bin/env perl
 
 use lib qw |
-  /home/whistlingdog/local/perl/lib/perl5
-  /home/whistlingdog/local/perl/lib
+  /home/whistlingdog/perl5/lib/perl5
+  /home/whistlingdog/perl5/lib/
 | ;
 
 use Catalyst::ScriptRunner;
