@@ -3,6 +3,7 @@
 
     <div id="gallery">
         <div id="galleria">
+            <a href="http://www.youtube.com/watch?v=b2uLT8olYDY"><span class="video">Sparks & Stick at Triad</span></a>
             <a href="/static/media/graphics/sparks-sticks/sparksandsticks-m.jpg">
                 <img src="/static/media/graphics/sparks-sticks/sparksandsticks-t.jpg" data-big="/static/media/graphics/sparks-sticks/sparksandsticks-l.jpg" data-description="Paul Rossman, Percussionist / Drummer<br>Richard Cohn, Songwriter / Singer / Keyboards" alt="Paul Rossman, Percussionist / Drummer - Richard Cohn, Songwriter / Singer / Keyboards"></a>
 
