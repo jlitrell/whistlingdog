@@ -25,8 +25,10 @@
 
       <div style="margin-right: 2em">
         <h3 style="color: blue">Sparky Town 3</h3>
-        <h4>Friday, August 16th</h4>
         <h4>Friday, September 27th</h4>
+        <h4>Friday, October 25th</h4>
+        <h4>Friday, November 22nd</h4>
+        <h4>Friday, December 20th</h4>
           773 Lounge<br>
           773 Coney Island Ave., Brooklyn, N.Y.
       </div>
@@ -35,14 +37,14 @@
       <div id="upcoming-rm">
           <h3 style="color: blue">The Magic of Richard Cohn</h3>
           <h4 style="color: silver"><i>Magic at Coney</i></h4>
-          <h4>Sunday, August 18th at 12 noon</h4>
+          <h4>Sunday, October 6th at 12 noon</h4>
+          <h4>Sunday, October 27th at 12 noon</h4>
             Coney Island Museum<br>
             1208 Surf Ave., Coney Island, N.Y.<br>
             $10 adults / $5 children
           <br><br>
 
           <h4 style="color: silver"><i>Monday Night Magic</i></h4>
-          <h4>August 19th at 8 pm</h4>
           <h4>October 14th at 8 pm</h4>
           <h4>November 25th at 8 pm</h4>
           <h4>January 6th, 2020 at 8 pm</h4>
