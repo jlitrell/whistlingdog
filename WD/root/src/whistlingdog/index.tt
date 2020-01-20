@@ -25,24 +25,29 @@
 
       <div style="margin-right: 2em">
         <h3 style="color: blue">Sparky Town 3</h3>
-        <h4>Wednesday, January 1st, 2020, 1 pm</h4>
-          Freak Bar<br>
-          1208 Surf Ave, Coney Island, Brooklyn, NY
+            <h4>Friday, March 13th</h4>
+            773 Lounge<br>
+            773 Coney Island Ave., Brooklyn, NY
       </div>
 
 
       <div id="upcoming-rm">
           <h3 style="color: blue">The Magic of Richard Cohn</h3>
-<!--
+
           <h4 style="color: silver"><i>Magic at Coney</i></h4>
-          <h4>Sunday, December 15th at 12 noon</h4>
+          <h4>Sunday, February 9th at 12 noon</h4>
             Coney Island Museum<br>
             1208 Surf Ave., Coney Island, N.Y.<br>
             $10 adults / $5 children
           <br><br>
--->
+
           <h4 style="color: silver"><i>Monday Night Magic</i></h4>
-            <h4>January 6th, 2020 at 8 pm</h4>
+            <h4>February 10th at 8 pm</h4>
+            <h4>March 23rd at 8 pm</h4>
+            <h4>May 4th at 8 pm</h4>
+            <h4>June 15th at 8 pm</h4>
+            <h4>July 27th at 8 pm</h4>
+            <h4>September 14th at 8 pm</h4>
             Close-up magic<br>
             Players Theater<br>
             115 Macdougal St., NYC
