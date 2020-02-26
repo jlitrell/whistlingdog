@@ -37,6 +37,7 @@
     <h2 style="text-align: center">Upcoming Performances</h2>
     <div id="upcoming">
 
+<!--
       <div>
         <h3>Magic at Coney</h3>
         <h4>Sunday, February 9th at 12 noon</h4>
@@ -44,10 +45,9 @@
           1208 Surf Ave., Coney Island, N.Y.<br>
           $10 adults / $5 children
       </div>
-
+-->
       <div>
         <h3>Monday Night Magic</h3>
-        <h4>February 10th at 8 pm</h4>
         <h4>March 23rd at 8 pm</h4>
         <h4>May 4th at 8 pm</h4>
         <h4>June 15th at 8 pm</h4>
