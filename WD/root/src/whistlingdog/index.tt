@@ -8,40 +8,43 @@
     <a href="/magical-melodions">The Magical Melodions</a> ~
     <a href="/richard-music">Richard's Music</a>
 
-    <!--
     <br><br>
     <h3>Upcoming Performances:</h3>
 
     <div id="upcoming">
 
-
+<!--
       <div id="upcoming-ss">
         <h3 style="color: blue">Sparks & Sticks</h3>
           <h4>Sunday, November 25th, at 4 pm</h4>
           <h4>Triad Theater</h4>
             158 W. 72nd St., NYC
-      </div>
+      </div>-->
 
 
       <div style="margin-right: 2em">
         <h3 style="color: blue">Sparky Town 3</h3>
-            <h4>Friday, March 13th</h4>
-            773 Lounge<br>
-            773 Coney Island Ave., Brooklyn, NY
+            <h4>Sunday, August 29th at 2 pm</h4>
+            The Rusty Nail<br>
+            1701 Foster Ave., Brooklyn, NY 11230
+            <br><br>
+            <h4>Saturday, September 18th, afternoon</h4>
+            Sherman St. Block Party, Brooklyn, NY
       </div>
 
 
       <div id="upcoming-rm">
           <h3 style="color: blue">The Magic of Richard Cohn</h3>
 
-          <h4 style="color: silver"><i>Magic at Coney</i></h4>
-          <h4>Sunday, February 9th at 12 noon</h4>
-            Coney Island Museum<br>
-            1208 Surf Ave., Coney Island, N.Y.<br>
-            $10 adults / $5 children
+          <!--<h4 style="color: silver"><i>Magic at Coney</i></h4>-->
+          <h4>Sunday, July 18th at 4 pm</h4>
+            Brooklyn Waterfront Artists Coalition<br>
+            481 Van Brunt St. Red Hook, Brooklyn, NY 11231
           <br><br>
-
-          <h4 style="color: silver"><i>Monday Night Magic</i></h4>
+          <h4>Sunday, August 15th at 4 pm</h4>
+            Brooklyn Waterfront Artists Coalition<br>
+            481 Van Brunt St. Red Hook, Brooklyn, NY 11231
+          <!--<h4 style="color: silver"><i>Monday Night Magic</i></h4>
             <h4>March 23rd at 8 pm</h4>
             <h4>May 4th at 8 pm</h4>
             <h4>June 15th at 8 pm</h4>
@@ -50,8 +53,8 @@
             Close-up magic<br>
             Players Theater<br>
             115 Macdougal St., NYC
+            -->
       </div>
     </div>
-    -->
 </div>
 
