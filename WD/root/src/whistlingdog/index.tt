@@ -24,19 +24,16 @@
 
       <div style="margin-right: 2em">
         <h3 style="color: blue">Sparky Town 3</h3>
-            <h4>Sunday, August 29th at 2 pm</h4>
-            The Rusty Nail<br>
-            1701 Foster Ave., Brooklyn, NY 11230
-            <br><br>
-            <h4>Saturday, September 18th, afternoon</h4>
-            Sherman St. Block Party, Brooklyn, NY
+            <h4>Sunday, October 3rd, 2-4 pm</h4>
+            870 Ocean Ave. (corner of Dorchester Rd), Brooklyn, NY<br>
+            as part of <a href="https://www.beautifybrooklyn.org/event-details/artmageddon-brooklyn-art-music-festival-october-3-2021" target="_blank">Artmageddon II - The Brooklyn Art & Music Festival</a>
       </div>
 
-
+<!--
       <div id="upcoming-rm">
           <h3 style="color: blue">The Magic of Richard Cohn</h3>
 
-          <!--<h4 style="color: silver"><i>Magic at Coney</i></h4>-->
+          <!--<h4 style="color: silver"><i>Magic at Coney</i></h4>->
           <h4>Sunday, July 18th at 4 pm</h4>
             Brooklyn Waterfront Artists Coalition<br>
             481 Van Brunt St. Red Hook, Brooklyn, NY 11231
@@ -53,7 +50,8 @@
             Close-up magic<br>
             Players Theater<br>
             115 Macdougal St., NYC
-            -->
+            ->
+-->
       </div>
     </div>
 </div>
