@@ -34,10 +34,11 @@
 
     <br>
 
+    <!--
     <h2 style="text-align: center">Upcoming Performances</h2>
     <div id="upcoming">
 
-<!--
+
       <div>
         <h3>Magic at Coney</h3>
         <h4>Sunday, February 9th at 12 noon</h4>
@@ -45,7 +46,7 @@
           1208 Surf Ave., Coney Island, N.Y.<br>
           $10 adults / $5 children
       </div>
--->
+
 
       <div>
         <h3 style="color: silver"><i>Coney Island Conjurer's Convention</i></h3>
@@ -63,5 +64,5 @@
           115 MacDougal St., NYC
       </div>
     </div>
-
+    -->
 </div>
