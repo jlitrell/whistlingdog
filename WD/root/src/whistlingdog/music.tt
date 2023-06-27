@@ -38,13 +38,17 @@
 
       <div>
         <h3>Sparky Town 3</h3>
-            <!--<h4>Sunday, October 9th, 12 noon - 2 pm</h4>
-            Cortelyou Rd. and Marlboro Rd. in front of Kings County Wines<br>-->
-            <h4><i>Sherman Street Block Party</i></h4>
-            <b>(Date to be announced)</b><br><br>
+            <h4 style="color: silver"><i>Coney Island Freak Bar</i></h4>
+            <b>Sunday, July 30th, 1 pm</b><br>
+            1208 Surf Ave. Coney Island, Brooklyn NY<br><br>
 
-            <h4><i>Brooklyn Artmageddon</i></h4>
-            <b>Sunday, October 1st</b>
+            <h4 style="color: silver"><i>Sherman Street Block Party</i></h4>
+            <b>Saturday, September 30th</b><br>
+            Windsor Terrace, Brooklyn NY<br><br>
+
+            <h4 style="color: silver"><i>Artmageddon IV (Brooklyn Arts and Music Fest)</i></h4>
+            <b>Sunday, October 1st</b><br>
+            Location to be announced
       </div>
     </div>
 
