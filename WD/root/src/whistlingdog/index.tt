@@ -13,23 +13,20 @@
 
     <div id="upcoming">
 
-<!--
+
       <div id="upcoming-ss">
-        <h3 style="color: blue">Sparks & Sticks</h3>
-          <h4>Sunday, November 25th, at 4 pm</h4>
-          <h4>Triad Theater</h4>
-            158 W. 72nd St., NYC
-      </div>-->
+        <h3 style="color: blue">Sparky Town 3</h3>
+          <h4>Friday, October 27th, at 7 pm</h4>
+          <h4>Brooklyn Music Kitchen</h4>
+          177 Vanderbilt Ave, Brooklyn
+      </div>
 
 
-      <div style="margin-right: 2em">
+      <div style="margin-right: 2em; padding-left: 2em">
         <h3 style="color: blue">Spark Gap</h3>
-            <!--<h4>Sunday, October 9th, 12 noon - 2 pm</h4>
-            Cortelyou Rd. and Marlboro Rd. in front of Kings County Wines<br>-->
-
-            <h4 style="color: silver"><i>Artmageddon IV (Brooklyn Arts and Music Fest)</i></h4>
-            <b>Sunday, October 1st</b><br>
-            4:00 pm at 477 E. 16th St., Brooklyn
+            <h4>Sunday, October 1st, at 4 pm</h4>
+            <h4><i>Artmageddon IV<br>(Brooklyn Arts and Music Fest)</i></h4>
+            477 E. 16th St., Brooklyn
       </div>
 
       <!--
