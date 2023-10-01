@@ -9,19 +9,23 @@
     <a href="/richard-music">Richard's Music</a>
 
     <br><br>
-    <h3>Upcoming Performances:</h3>
+
+    <h3>Upcoming Performances:</h3><br>
+
+    <a href="https://link.dice.fm/Dfd96e2b507e" target="_blank">
+      <img src="/static/media/graphics/site/bmk.jpg" height="647" width="500" alt="Sparky Town 3 at Brooklyn Music Kitchen, October 27th">
+    </a>
 
     <div id="upcoming">
-
-
       <div id="upcoming-ss">
         <h3 style="color: blue">Sparky Town 3</h3>
           <h4>Friday, October 27th, at 7 pm</h4>
           <h4>Brooklyn Music Kitchen</h4>
-          177 Vanderbilt Ave, Brooklyn
+          177 Vanderbilt Ave, Brooklyn<br>
+          <a href="https://link.dice.fm/Dfd96e2b507e" target="_blank">Tickets available online</a>
       </div>
 
-
+      <!--
       <div style="margin-right: 2em; padding-left: 2em">
         <h3 style="color: blue">Spark Gap</h3>
             <h4>Sunday, October 1st, at 4 pm</h4>
@@ -29,7 +33,7 @@
             477 E. 16th St., Brooklyn
       </div>
 
-      <!--
+
       <div id="upcoming-rm">
           <h3 style="color: blue">Music of Richard Cohn and Friends</h3>
             <h4 style="color: silver"><i>Coney Island Museum 40th Anniversary</i></h4>
