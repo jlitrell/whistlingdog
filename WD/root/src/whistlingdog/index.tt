@@ -11,11 +11,7 @@
     <br><br>
 
     <h3>Upcoming Performances:</h3><br>
-
-    <a href="https://link.dice.fm/Dfd96e2b507e" target="_blank">
-      <img src="/static/media/graphics/site/bmk.jpg" height="647" width="500" alt="Sparky Town 3 at Brooklyn Music Kitchen, October 27th">
-    </a>
-
+<!--
     <div id="upcoming">
       <div id="upcoming-ss">
         <h3 style="color: blue">Sparky Town 3</h3>
@@ -28,15 +24,21 @@
           <h4>Coffee Mob Bar and Roastery</h4>
           1602 Newkirk Ave., Brooklyn<br>
       </div>
+-->
 
-      <!--
       <div style="margin-right: 2em; padding-left: 2em">
-        <h3 style="color: blue">Spark Gap</h3>
-            <h4>Sunday, October 1st, at 4 pm</h4>
-            <h4><i>Artmageddon IV<br>(Brooklyn Arts and Music Fest)</i></h4>
-            477 E. 16th St., Brooklyn
+        <h3 style="color: blue">DUX DELUXE</h3>
+            <h4>Sunday, December 10th, at 4 pm</h4>
+            <h4><i>Good Coffeehouse Music Parlor</i></h4>
+            Little Victory Theater<br>
+            4089 Victory Blvd.<br>
+            Staten Island, New York<br><br>
+            <span style="color: blue">DUX DELUXE</span> will share a rollicking repertoire of Accordion, Piano, Chromatic Harmonica, Bones, Spoons, Woodblock, Snare Drum, Duck Call and special effects as part of their presentation at The Good Coffeehouse on Dec. 10th at the Little Victory Theater on Staten Island.<br>
+            Unusual Arrangements. Facile Renditions.<br>
+            Old Favorites. Enchanting Novelties.
       </div>
 
+      <!--
 
       <div id="upcoming-rm">
           <h3 style="color: blue">Music of Richard Cohn and Friends</h3>
