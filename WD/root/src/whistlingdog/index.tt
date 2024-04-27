@@ -10,33 +10,17 @@
 
     <br><br>
 
-    <h3>Upcoming Performances:</h3><br>
-<!--
+    <h3>Upcoming Performances:</h3>
+
     <div id="upcoming">
       <div id="upcoming-ss">
         <h3 style="color: blue">Sparky Town 3</h3>
-          <h4>Friday, October 27th, at 8 pm</h4>
-          <h4>Brooklyn Music Kitchen</h4>
-          177 Vanderbilt Ave, Brooklyn<br>
-          <a href="https://link.dice.fm/Dfd96e2b507e" target="_blank">Tickets available online</a>
-          <br><br>
-          <h4>Friday, November 3rd, at 7 pm</h4>
-          <h4>Coffee Mob Bar and Roastery</h4>
-          1602 Newkirk Ave., Brooklyn<br>
+          <h4>Friday, June 21st,</h4>
+          <h4>Friday, July 19th</h4>
+          <h4>Shenanigans Pub</h4>
+          802 Caton Ave., Brooklyn, NY
       </div>
--->
 
-      <div style="margin-right: 2em; padding-left: 2em">
-        <h3 style="color: blue">DUX DELUXE</h3>
-            <h4>Sunday, December 10th, at 4 pm</h4>
-            <h4><i>Good Coffeehouse Music Parlor</i></h4>
-            Little Victory Theater<br>
-            4089 Victory Blvd.<br>
-            Staten Island, New York<br><br>
-            <span style="color: blue">DUX DELUXE</span> will share a rollicking repertoire of Accordion, Piano, Chromatic Harmonica, Bones, Spoons, Woodblock, Snare Drum, Duck Call and special effects as part of their presentation at The Good Coffeehouse on Dec. 10th at the Little Victory Theater on Staten Island.<br>
-            Unusual Arrangements. Facile Renditions.<br>
-            Old Favorites. Enchanting Novelties.
-      </div>
 
       <!--
 
